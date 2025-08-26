@@ -4,7 +4,7 @@ const response = document.getElementById("response");
 
 // When she clicks YES
 yesBtn.addEventListener("click", () => {
-  response.innerHTML = "Yay! You just made me the happiest person alive! 🥰❤️";
+  response.innerHTML = "anjayyy cian officially jadi pacar guaaa🕺🕺🕺🥳🥳🥳🎉🎉";
 });
 
 // When she clicks NO (make it playful, button runs away 😆)
